@@ -49,8 +49,8 @@
 
 9. Se você quiser, em vez de rodar nodemon server.js....vc pode rodar o servidor via script com npm. Para isso, adicione o trecho abaixo no package.json
 
-    ```"scripts": {
+    `"scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon server.js"
-    },```
+    },`
 
