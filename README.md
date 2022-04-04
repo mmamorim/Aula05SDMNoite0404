@@ -24,7 +24,9 @@
 
 4.1 Não esqueçam de criar um arquivo chamado `.gitignore` dizendo para o git ignorar a pasta `node_modules`. Basta adicionar a linha:
 
-    `node_modules`
+    ~~~
+    node_modules
+    ~~~
     
 5. Caso queiram usar o **nodemon**
 
