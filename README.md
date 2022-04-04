@@ -6,6 +6,10 @@
     - Abrir terminal (git bash) em uma pasta    
     - Clonar digitando o comando
  
+    ˋˋˋ
+    Esta é uma linha de código
+    ˋˋˋ
+
     git clone <endereço do seu repositório>
 
 2. Abrir a pasta com o VSCode
