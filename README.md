@@ -24,10 +24,8 @@
 
 4.1 Não esqueçam de criar um arquivo chamado `.gitignore` dizendo para o git ignorar a pasta `node_modules`. Basta adicionar a linha:
 
-    ~~~
-    node_modules
-    ~~~
-    
+    `node_modules`
+
 5. Caso queiram usar o **nodemon**
 
     _Vimos que toda vez que alteraramos os arquivos de código, precisamos derrubar e subir novamente o servidor...caso queiram...pode-se utilizar o nodemon para monitorar os ajustes e restartar o nosso servidor. Para instalar:_
