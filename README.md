@@ -15,3 +15,13 @@
 2. Abrir a pasta com o VSCode
 
 3. Abrir um terminal no VSCode
+
+4. Vamos criar nosso amigo "package.json"
+    _Ele é responsável por gerenciar diversas coisas do nosso projeto_
+
+    `npm init`
+
+4. Caso queiram usar o *nodemon* 
+    _Vimos que toda vez que alteraramos os arquivos de código, precisamos derrubar e subir novamente o servidor...caso queiram...pode-se utilizar o nodemon para monitorar os ajustes e restartar o nosso servidor. Para instalar:_
+
+    `npm install -g nodemon@1.19.4`
