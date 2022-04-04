@@ -22,8 +22,23 @@
 
     `npm init`
 
-4. Caso queiram usar o **nodemon**
+4.1 Não esqueçam de criar um arquivo chamado `.gitignore` dizendo para o git ignorar a pasta `node_modules`. Basta adicionar a linha:
+
+    `node_modules`
+
+    
+5. Caso queiram usar o **nodemon**
 
     _Vimos que toda vez que alteraramos os arquivos de código, precisamos derrubar e subir novamente o servidor...caso queiram...pode-se utilizar o nodemon para monitorar os ajustes e restartar o nosso servidor. Para instalar:_
 
     `npm install -g nodemon@1.19.4`
+
+6. Deixando nosso server profissa com um arquivo de **config.json**
+
+    _Podemos criar variáveis de ambiente em um arquivo separado chamado config.json. O pacote config nos permite organizar a configuração da nossa aplicação e usar no nosso projeto._
+
+    `npm install config`
+
+7. Vamos instalar nosso amigo **express**
+
+    `npm install express`

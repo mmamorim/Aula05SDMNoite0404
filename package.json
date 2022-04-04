@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mmamorim/Aula05SDMNoite0404/issues"
   },
-  "homepage": "https://github.com/mmamorim/Aula05SDMNoite0404#readme"
+  "homepage": "https://github.com/mmamorim/Aula05SDMNoite0404#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.17.3"
+  }
 }
